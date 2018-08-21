@@ -18,5 +18,5 @@ This is a great WordPress plugin for developers as it gives a quick start when c
 ## Notes
 It can only retrieve information from videos that are set to public or the on-demand section. Private videos are not accessible from the Vimeo Open API. This plugin works with Advanced Custom Fields version 4 and 5.
 
-##Support
+## Support
 I am turning this over to the community to maintain. Enjoy!
